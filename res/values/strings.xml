@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Esri</string>
+   <string name="app_name">GeoGo</string>
+    <string name="route_label">Mantenga pulsado un punto en el mapa para calcular la ruta a ese punto o Haga clic en el icono "Cómo llegar"</string>
+    <string name="sound">Sonido</string>
+    <string name="actionBar_direction">Obtener Dirección</string>
+    <string name="geocode_url">http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer</string>
+    <string name="useCurrlocation">Utilice ubicación actual</string>
+    <string name="routing_title">Ruteo</string>
+    <string name="swap_addresses">Cambiar Direciones</string>
+    <string name="clearText">Clic en el Texto</string>
+    <string name="route">Ruta</string>
+    <string name="my_location">Mi Localización</string>
+    <string name="title_activity_sign_in">Rutas en Colombia</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <!-- sign in activity -->
+    <string name="title_sign_in_activity">Iniciar Sesión</string>
+    <string name="specify_portal_url">Ingrese la URL de su organización o su Portal de ArcGIS</string>
+    <string name="continue_label">Continuar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="verifying_portal">Verificando el portal</string>
+    <string name="portal_url_hint">e.j., http://www.arcgis.com</string>
+    <string name="failed_sign_in">Inicio de Sesión fallido.</string>
+    <string name="client_id">9v2i6qkvfu1OJjev</string>
+    <!-- Suggestions For the portal URL -->
+
+    <string-array name="url_array">
+        <item>http://www.arcgis.com/</item>
+        <item>http://esri-colombia.maps.arcgis.com/</item>
+    </string-array>
+
+    <string name="title_activity_pantalla_inicio">PantallaInicio</string>
+
+</resources>
